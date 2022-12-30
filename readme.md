@@ -6,7 +6,7 @@
 #### Tinkercad: https://www.tinkercad.com/things/aEnzcleCdSy
 
 #### Descripción:
-* Juego tradicional del Ahorcado. Tres vidas, 50 palabras al azar entre 6 y 9 caracteres.
+* Juego tradicional del Ahorcado. Tres vidas, 50 palabras al azar con entre 6 y 9 caracteres.
 
 #### Funcionalidades:
 * Uso de pantalla LCD mediante la biblioteca LiquidCrystal.h.
@@ -16,7 +16,7 @@
 
 ---
 
-### Cronometro Binario
+### Cronómetro Binario
 #### Tinkercad: https://www.tinkercad.com/things/0gTOvGDxgND
 
 #### Descripción:
