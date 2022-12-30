@@ -5,8 +5,7 @@
 ### Ahorcado
 #### Tinkercad: https://www.tinkercad.com/things/aEnzcleCdSy
 
-#### Descripción: Juego tradicional del Ahorcado.
-#### 		  Tres vidas, 50 palabras al azar entre 6 y 9 caracteres.
+#### Descripción: Juego tradicional del Ahorcado. Tres vidas, 50 palabras al azar entre 6 y 9 caracteres.
 
 #### Funcionalidades:
 * Uso de pantalla LCD mediante la biblioteca LiquidCrystal.h.
@@ -19,8 +18,7 @@
 ### Cronometro Binario
 #### Tinkercad: https://www.tinkercad.com/things/0gTOvGDxgND
 
-#### Descripción: Cronómetro binario con luces LED e impresión en binario y decimal por Serial Monitor.
-#### 		  Tiempo máximo: 1023 segundos.
+#### Descripción: Cronómetro binario con luces LED e impresión en binario y decimal por Serial Monitor. Tiempo máximo: 1023 segundos.
 
 #### Funcionalidades:
 * Botones con función antirrebote.
