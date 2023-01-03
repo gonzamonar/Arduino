@@ -25,6 +25,6 @@
 #### Funcionalidades:
 * Botones con función antirrebote.
 * Lógica de conversión binario-decimal.
-* Manejo de la función loop() sin uso de delay().
+* Manejo de la función loop() con intervalos.
 
 ---
